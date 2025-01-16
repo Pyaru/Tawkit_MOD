@@ -1,0 +1,9 @@
+﻿var JS_CITIES_DATA =
+
+[
+
+"UZ.SIRDARYO.",
+
+"UZ.TASHKENT.",
+
+];
