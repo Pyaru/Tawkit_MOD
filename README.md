@@ -6,3 +6,4 @@
 এবং সকল ইংরেজি সেটিং বাংলাতে করা হয়েছে।
 
 এটি https://www.tawkit.net এর থেকে নেওয়া। আমি শুধু বাংলা কাস্টম ফন্ট এড করেছি।
+test: https://pyaru.github.io/Tawkit_MOD/ 
