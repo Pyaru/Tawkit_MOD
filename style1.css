@@ -446,7 +446,7 @@ input[type='radio'] { vertical-align:middle; width:2.1vw; height:2.1vw;}
 	font-family:var(--XX_MAJORFONTO); font-size:7.0vw; text-align:center; opacity:var(--VRBigCNTR); 
 	line-height:1.35em; color:var(--Color_LOWFOCUS); text-shadow:var(--TXT_SHDW); }
 
-.s002 #VRMsqNAME {right:2%; left:unset; top:0.8%; width:40%; height:23%; font-size:6.4vw; text-align:right; opacity:1;}
+.s002 #VRMsqNAME {right:0%; left:unset; top:0.8%; width:40%; height:23%; font-size:6.4vw; text-align:right; opacity:1;}
 
 
 
@@ -727,9 +727,9 @@ input[type='radio'] { vertical-align:middle; width:2.1vw; height:2.1vw;}
 
 
 /*   */
-#ewAZAN {position:absolute; top:0%; right:36.0%; width:30%; text-align:right;}
+#ewAZAN {position:absolute; top:0%; right:36.0%; width:30%; text-align:center;}
 #ewSALAT{position:absolute; top:0%; left:4.5%; right:unset; width:30%; text-align:left;}
-#ewIQAMA{position:absolute; top:0%; left:unset; right:0%; width:26.5%; text-align:right; visibility:var(--IQAMAT);}
+#ewIQAMA{position:absolute; top:0%; left:unset; right:0%; width:26.5%; text-align:center; visibility:var(--IQAMAT);}
 #ewSALAT:lang(AR){position:absolute; top:0%; right:4.5%; left:unset; width:30%; text-align:right;}
 #ewIQAMA:lang(AR){position:absolute; top:0%; left:0%; right:unset; width:26.0%; text-align:right;}
 
