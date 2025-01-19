@@ -446,7 +446,7 @@ input[type='radio'] { vertical-align:middle; width:2.1vw; height:2.1vw;}
 	font-family:var(--XX_MAJORFONTO); font-size:7.0vw; text-align:center; opacity:var(--VRBigCNTR); 
 	line-height:1.35em; color:var(--Color_LOWFOCUS); text-shadow:var(--TXT_SHDW); }
 
-.s002 #VRMsqNAME {right:2%; left:unset; top:0.8%; width:40%; height:23%; font-size:5.4vw; text-align:right; opacity:1;}
+.s002 #VRMsqNAME {right:2%; left:unset; top:0.8%; width:40%; height:23%; font-size:5.0vw; text-align:right; opacity:1;}
 
 
 
