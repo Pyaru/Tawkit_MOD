@@ -443,10 +443,10 @@ input[type='radio'] { vertical-align:middle; width:2.1vw; height:2.1vw;}
 #eMenuVR	{position:absolute; z-index:9999333; left:0%; top:0%; font-size:5vw; padding:7px; cursor:pointer;}
 
 #VRMsqNAME {position:absolute; left:6%; top:13.7%; width:92%; height:12%; z-index:300;
-	font-family:var(--XX_MAJORFONTO); font-size:7.0vw; text-align:center; opacity:var(--VRBigCNTR); 
+	font-family:var(--XX_MAJORFONTO); font-size:5.2vw; text-align:center; opacity:var(--VRBigCNTR); 
 	line-height:1.35em; color:var(--Color_LOWFOCUS); text-shadow:var(--TXT_SHDW); }
 
-.s002 #VRMsqNAME {right:2%; left:unset; top:0.8%; width:40%; height:23%; font-size:5.0vw; text-align:right; opacity:1;}
+.s002 #VRMsqNAME {right:2%; left:unset; top:0.8%; width:40%; height:23%; font-size:5.2vw; text-align:right; opacity:1;}
 
 
 
