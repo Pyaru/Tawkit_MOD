@@ -759,7 +759,7 @@ input[type='radio'] { vertical-align:middle; width:2.1vw; height:2.1vw;}
 .sMDL .eeeIQAMA:lang(AR)	{left:0.3%; right:unset;}
 
 
-.eeeNAME {font-family:var(--XX_MAJORFONTO); position:absolute; left:2%; font-size:6.7vw; bottom:19%; 
+.eeeNAME {font-family:var(--XX_MAJORFONTO); position:absolute; left:0%; font-size:6.7vw; bottom:19%; 
 	line-height:1em; color:var(--Color_SEKSALATS);}
 .eeeNAME:lang(AR) {right:2%; left:unset; font-size:var(--VR77); bottom:17.5%; text-align:right;}
 
