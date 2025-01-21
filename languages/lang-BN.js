@@ -22,7 +22,7 @@
 	MenuOptions			: "বেসিক সেটিংস",
 	MenuAzkar			: "ছবি প্রদর্শন (যিকির)",
 	MenuSliders			: "স্লাইড চালু করুন",
-	MenuAdjustments		: "নামাজের সময় সামঞ্জস্য করুন",
+	MenuAdjustments		: "নামায ও ইকামাতের সময় অ্যাডজাস্ট করুন",
 	MenuBlackscreen		: "ব্ল্যাক-স্ক্রিন অ্যাডজাস্ট করুন",
 	MenuDimmerDirect	: "ম্যানুয়ালি পর্দা লুকানো",
 	MenuMosquelogo		: "মসজিদের লোগো",
