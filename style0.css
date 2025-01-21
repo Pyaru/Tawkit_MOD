@@ -256,11 +256,11 @@ label { vertical-align:middle;}
 .cCLK{color:var(--Color_CLOCK);}
 #XX_MISC_1 {font-size:115%;}
 
-#eMenuGRP {padding-top:3%;text-align:right;}
+#eMenuGRP {padding-top:3%;text-align:left;}
 #mntopo {position:absolute; right:12%; top:30%; font-size:115%;}
 
-#LangsDIV {position:absolute; left:2.3%; top:0.5%; padding:1.2%; width:auto; height:auto; direction:ltr; 
-			color:#989898; line-height:1em; text-align:left;}
+#LangsDIV {position:absolute; left:45%; top:0.5%; padding:1.2%; width:auto; height:auto; direction:ltr; 
+			color:#989898; line-height:1em; text-align:right;}
 
 .cssMenuBTN {width:80%; padding:2.05%; cursor:pointer; padding-right:35px; margin-right:3%;}
 .grpfonts 	{font-family:'FreeSans'; font-size:80%; text-align:right; direction:ltr;}
