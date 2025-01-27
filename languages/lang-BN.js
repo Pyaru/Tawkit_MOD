@@ -5,7 +5,7 @@
 	DohaTime			: "সূর্যোদয়",
 	MinutesToIqama		: "ইকামা...",
 	MinutesToDoha		: "---",
-	AzanCalling			: " আযান ",
+	AzanCalling			: " আযান হচ্ছে ",
 	AzanNAME			: " আযান ",
 	NextPrayTime	 	: "পরবর্তী আযান",
 	NamesOfPrayings		: "ফজর, সূর্যোদয়, জোহর, আসর, মাগরিব, ইশা",
@@ -31,8 +31,8 @@
 	MenuAboutTawkit		: "Tawkit সম্পর্কে",
 
 	XXDoaAzanIqama		: "---",
-	XXFastingMonday		: "অনুস্মারক: সোমবার রোজা রাখতে ভুলবেন না",
-	XXFastingThursday	: "অনুস্মারক: বৃহস্পতিবার রোজা রাখতে ভুলবেন না",
+	XXFastingMonday		: "নোট: সোমবার রোজা রাখতে ভুলবেন না",
+	XXFastingThursday	: "নোট: বৃহস্পতিবার রোজা রাখতে ভুলবেন না",
 	
 	XX_OPTION_0			: "24 ঘন্টা সক্ষম করুন",
 	XX_OPTION_1			: "সম্পূর্ণ ঘড়ি সক্ষম করুন",
